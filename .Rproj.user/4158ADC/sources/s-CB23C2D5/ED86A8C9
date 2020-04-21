@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587446726187.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "ED86A8C9",
+    "lastKnownWriteTime" : 140456033291176,
+    "last_content_update" : 1587446726187,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "18F84C36",
+        "caption" : "primeira",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=primeira&cache_key=18F84C36",
+        "displayedObservations" : 579,
+        "environment" : "",
+        "expression" : "primeira",
+        "object" : "primeira",
+        "preview" : 0,
+        "totalObservations" : 579,
+        "variables" : 2
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

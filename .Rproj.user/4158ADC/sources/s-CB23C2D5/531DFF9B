@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587447029872.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "531DFF9B",
+    "lastKnownWriteTime" : 244813135872,
+    "last_content_update" : 1587447029872,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "FD040972",
+        "caption" : "terceira",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=terceira&cache_key=FD040972",
+        "displayedObservations" : 12,
+        "environment" : "",
+        "expression" : "terceira",
+        "object" : "terceira",
+        "preview" : 0,
+        "totalObservations" : 12,
+        "variables" : 2
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587446161980.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "25B8BCFC",
+    "lastKnownWriteTime" : 4465533306,
+    "last_content_update" : 1587446161980,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "64AD125D",
+        "caption" : "vgsales",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=vgsales&cache_key=64AD125D",
+        "displayedObservations" : 16598,
+        "environment" : "",
+        "expression" : "vgsales",
+        "object" : "vgsales",
+        "preview" : 0,
+        "totalObservations" : 16598,
+        "variables" : 11
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
